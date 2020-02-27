@@ -1,0 +1,11 @@
+D:\VisualStudio2019\OC-7\OC-7\bin\Debug\netcoreapp3.1\OC-7.exe
+D:\VisualStudio2019\OC-7\OC-7\bin\Debug\netcoreapp3.1\OC-7.deps.json
+D:\VisualStudio2019\OC-7\OC-7\bin\Debug\netcoreapp3.1\OC-7.runtimeconfig.json
+D:\VisualStudio2019\OC-7\OC-7\bin\Debug\netcoreapp3.1\OC-7.runtimeconfig.dev.json
+D:\VisualStudio2019\OC-7\OC-7\bin\Debug\netcoreapp3.1\OC-7.dll
+D:\VisualStudio2019\OC-7\OC-7\bin\Debug\netcoreapp3.1\OC-7.pdb
+D:\VisualStudio2019\OC-7\OC-7\obj\Debug\netcoreapp3.1\OC-7.csprojAssemblyReference.cache
+D:\VisualStudio2019\OC-7\OC-7\obj\Debug\netcoreapp3.1\OC-7.AssemblyInfoInputs.cache
+D:\VisualStudio2019\OC-7\OC-7\obj\Debug\netcoreapp3.1\OC-7.AssemblyInfo.cs
+D:\VisualStudio2019\OC-7\OC-7\obj\Debug\netcoreapp3.1\OC-7.dll
+D:\VisualStudio2019\OC-7\OC-7\obj\Debug\netcoreapp3.1\OC-7.pdb
