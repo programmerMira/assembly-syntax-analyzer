@@ -1,0 +1,17 @@
+ten db 0ah
+hun dw 100
+ohun db 101
+thous dw 0ff6h
+hund db 78h
+str db 1ah
+
+
+imul thous
+imul hun
+imul bx
+pop dx
+pop ten
+push ten
+pop hun
+add ax, 2
+sub bx, 3

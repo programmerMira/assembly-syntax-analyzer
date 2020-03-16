@@ -8,7 +8,7 @@ namespace OC_7
         static void Main(string[] args)
         {
             IReadFile Iread = new ReadFile();
-            string path = "D:\\VisualStudio2019\\text.asm"; //any txt or asm file will work properly
+            string path = "D:\\VisualStudio2019\\test.txt"; //any txt or asm file will work properly
             List<String> tmp_data = Iread.openFileToRead(path);
             Dictionary<Int32, String> exceptions = Iread.checkDataForExs(tmp_data);
             Console.WriteLine("File output:");

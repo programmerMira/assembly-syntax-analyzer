@@ -5402,11 +5402,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio2019\\OC-7\\OC-7.Tests\\ReadFile.Tests.csproj",
+      "projectUniqueName": "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7.Tests\\ReadFile.Tests.csproj",
       "projectName": "ReadFile.Tests",
-      "projectPath": "D:\\VisualStudio2019\\OC-7\\OC-7.Tests\\ReadFile.Tests.csproj",
+      "projectPath": "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7.Tests\\ReadFile.Tests.csproj",
       "packagesPath": "C:\\Users\\oksa0\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio2019\\OC-7\\OC-7.Tests\\obj\\",
+      "outputPath": "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5426,8 +5426,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\VisualStudio2019\\OC-7\\OC-7\\OC-7.csproj": {
-              "projectPath": "D:\\VisualStudio2019\\OC-7\\OC-7\\OC-7.csproj"
+            "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7\\OC-7.csproj": {
+              "projectPath": "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7\\OC-7.csproj"
             }
           }
         }

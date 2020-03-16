@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudio2019\\OC-7\\OC-7\\OC-7.csproj": {}
+    "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7\\OC-7.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudio2019\\OC-7\\OC-7\\OC-7.csproj": {
+    "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7\\OC-7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio2019\\OC-7\\OC-7\\OC-7.csproj",
+        "projectUniqueName": "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7\\OC-7.csproj",
         "projectName": "OC-7",
-        "projectPath": "D:\\VisualStudio2019\\OC-7\\OC-7\\OC-7.csproj",
+        "projectPath": "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7\\OC-7.csproj",
         "packagesPath": "C:\\Users\\oksa0\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio2019\\OC-7\\OC-7\\obj\\",
+        "outputPath": "D:\\GIT\\assembly-syntax-analyzer\\OC-7\\OC-7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

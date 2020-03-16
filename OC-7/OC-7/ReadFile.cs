@@ -134,12 +134,12 @@ namespace OC_7
                 exeptionToSend = "Command is too short!";
                 return false;
             }
-            if (command_parted.Length==2 && command_parted[0] != "PUSH")
+            if (command_parted.Length==2 && command_parted[0] != "PUSH" && command_parted[0] != "POP" && command_parted[0] != "IMUL")
             {
                 exeptionToSend = "The command requires two parameters!";
                 return false;
             }
-            if (command_parted[0] != "PUSH" && !command_parted[1].EndsWith(',') && !command_parted[2].StartsWith(','))
+            if (command_parted[0] != "PUSH" && command_parted[0] != "POP" && command_parted[0] != "IMUL" && !command_parted[1].EndsWith(',') && !command_parted[2].StartsWith(','))
             {
                 exeptionToSend = "The command requires two parameters seperated with dot!";
                 return false;
@@ -272,7 +272,9 @@ namespace OC_7
             command = command.Replace(" ,", ",");
             if (command.StartsWith("ADD") ||
                 command.StartsWith("SUB") ||
-                command.StartsWith("PUSH"))
+                command.StartsWith("PUSH") ||
+                command.StartsWith("POP") ||
+                command.StartsWith("IMUL"))
             {
                 if(checkCommandOrder(command))
                     return true;
